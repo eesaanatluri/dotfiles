@@ -1,0 +1,17 @@
+# This is Git's per-user configuration file.
+[user]
+#Please adapt and uncomment the following lines:
+	name = Eesaan Atluri
+	email = atlurie@uab.edu\n
+[status]
+	submoduleSummary = true
+[diff]
+	submodule = log
+[pull]
+	rebase = merges
+[core]
+	pager = delta
+[delta]
+	side-by-side = true
+[init]
+	defaultBranch = main
